@@ -1,18 +1,11 @@
-# output dir
 large-size-data/*.*
 !large-size-data/
-
-
-output
-instant_test_output
-inference_test_output
 
 
 *.png
 *.json
 *.diff
 *.jpg
-!/projects/DensePose/doc/images/*.jpg
 
 # compilation and distribution
 __pycache__
@@ -37,45 +30,7 @@ model_ts*.txt
 # *.ipynb
 **/.ipynb_checkpoints/
 
-# Editor temporaries
-# *.swn
-# *.swo
-# *.swp
-# *~
 
-# editor settings
-# .idea
-# /.vscode
-
-# _darcs
-
-# project dirs
-# /detectron2/model_zoo/configs
-# /datasets/*
-# !/datasets/*.*
-# /projects/*/datasets
-# /models
-# /snippet
-
-NCEPBUFR-PyLib/test/data/
-5G/Outputs/*.*
-!5G/Outputs/*.csv
-
-
-
-
-CaseStudies/*/RadianceData_old*/
-CaseStudies/*/Results_old/*.*
-
-CaseStudies/*/Check_repeatability/
-CaseStudies/*/ObsPerturbation/SavedFiles/*.*
-!CaseStudies/*/ObsPerturbation/SavedFiles/ObsData_outputs/
-CaseStudies/*/ObsPerturbation/SavedFiles/ObsData_outputs/*.*
-CaseStudies/*/Results/*.*
-CaseStudies/*/Reading_Visualizing_WRF_Results/Panoply_Figures/*.*
-CaseStudies/*/Reading_Visualizing_WRF_Results/Figures/*.*
-
-CaseStudies/*/TemporaryFolder/
 
 *.pdf
 *.svg
