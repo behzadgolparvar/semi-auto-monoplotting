@@ -16,6 +16,5 @@ This project provides a semi-automated tool for monoplotting that enables photog
 - ML-monoplotting is a new method toward spatial intelligence.
 
 ## Example Results
-
-### 1. Snow Segmentation Overlay for an image with and without distortion
-<img src="Outputs/snow_segmented_mountain_withANDwithoutDistortion.png" alt="Snow Overlay" style="width:35%;"/>
+Snow Segmentation Overlay for an image with and without distortion
+<img src="Outputs/snow_segmented_mountain_withANDwithoutDistortion.png" alt="Snow Overlay" style="width:65%;"/>
