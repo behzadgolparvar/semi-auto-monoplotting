@@ -1,5 +1,5 @@
-large-size-data/*.*
-!large-size-data/
+# large-size-data/*.*
+# !large-size-data/
 
 
 *.png
