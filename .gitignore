@@ -2,10 +2,10 @@
 # !large-size-data/
 
 
-*.png
+# *.png
 *.json
 *.diff
-*.jpg
+# *.jpg
 
 # compilation and distribution
 __pycache__
@@ -32,8 +32,8 @@ model_ts*.txt
 
 
 
-*.pdf
-*.svg
-*.png
-*.jpg
-*.html
+# *.pdf
+# *.svg
+# *.png
+# *.jpg
+# *.html
